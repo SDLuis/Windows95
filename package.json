@@ -17,7 +17,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "./node_modules/ts-standard/eslintrc.json"
+      "./node_modules/standard/eslintrc.json"
     ]
   },
   "browserslist": {
