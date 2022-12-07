@@ -33,9 +33,9 @@ const App = () => (
       <div className='relative top-40'>
         <Media />
       </div>
-      <div className='absolute text-white tracking-widest text-lg bottom-24 sm:bottom-4 right-4'>
+      <div className='absolute text-white tracking-widest text-lg bottom-8 sm:bottom-4 right-4'>
         <span className='flex gap-1'>
-          Make for fun by <span className='font-bold'>Luis Rincon</span>
+          Made for fun by <span className='font-bold'>Luis Rincon</span>
           <Avatar square size={24}>
             <span role='img' aria-label='👨‍💻'>
               👨‍💻
